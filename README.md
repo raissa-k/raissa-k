@@ -20,4 +20,5 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing all my inner willpower...](https://dev.to/raissak/harnessing-all-my-inner-willpower-2bpl)
 <!-- BLOG-POST-LIST:END -->
