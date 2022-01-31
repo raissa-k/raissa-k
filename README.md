@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/raissak](https://dev.to/raissak)
 
-- ⚡ Fun fact **this will be under construction for quite a while**
+- ⚡ Fun fact **this will be under construction for quite a while!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
