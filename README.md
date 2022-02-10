@@ -21,5 +21,6 @@
 🐱
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A reminder to self](https://dev.to/raissak/a-reminder-to-self-18no)
 - [Harnessing all my inner willpower...](https://dev.to/raissak/harnessing-all-my-inner-willpower-2bpl)
 <!-- BLOG-POST-LIST:END -->
