@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 📝 I regularly write articles on [https://dev.to/raissak](https://dev.to/raissak)
+- 📝 I non-regularly write articles on [https://dev.to/raissak](https://dev.to/raissak)
 
 - ⚡ Fun fact **this will be under construction for quite a while!**
 
