@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **full stack web development**
 
-📝 I non-regularly write articles on <a href="https://dev.to/raissak" target="blank" rel="noopener noreferrer">[dev.to]</a>, but updating <a href="https://polywork.com/raissa" target="_blank" rel="noopener noreferrer">[Polywork]</a> is a breeze and I love it. 
+📝 I non-regularly write articles on <a href="https://dev.to/raissak" target="blank" rel="noopener noreferrer">dev.to</a>, but updating <a href="https://polywork.com/raissa" target="_blank" rel="noopener noreferrer">Polywork</a> is a breeze and I love it. 
 
 ⚡ Fun facts: Paired with tea, <a href="https://mynoise.net/" target="blank" rel="noopener noreferrer">MyNoise</a> is what keeps me going.
 <br>
