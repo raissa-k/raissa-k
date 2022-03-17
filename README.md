@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from both the south and north hemispheres</h3>
 
 🔭 I’m currently working on 
-- **my portfolio** 
-- **getting the hang of floats so that flex becomes easy peasy** 
-- **attending bootcamp classes, hackathons, and virtual coffee chats**
+- **building websites for freelance clients** 
+- **developing a habit of writing for the blog** 
+- **attending classes, hackathons, and virtual coffee chats**
 
 
 🌱 I’m currently learning **full stack web development**
