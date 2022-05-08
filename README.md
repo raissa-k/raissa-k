@@ -49,7 +49,6 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 🐱
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [A CSS chapter closes...](https://dev.to/raissak/a-css-chapter-closes-1chn)
-- [A reminder to self](https://dev.to/raissak/a-reminder-to-self-18no)
-- [Harnessing all my inner willpower...](https://dev.to/raissak/harnessing-all-my-inner-willpower-2bpl)
+- [A taste of scope creep](https://raissak.com/blog/a-taste-of-scope-creep/)
+- [How this blog was made](https://raissak.com/blog/how-this-blog-was-made/)
 <!-- BLOG-POST-LIST:END -->
