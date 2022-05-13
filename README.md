@@ -35,14 +35,15 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
   <a href="https://raissak.com/tag/nunjucks/" target="_blank"><img src="https://img.shields.io/badge/NUNJUCKS-1c4913?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9udW5qdWNrczwvdGl0bGU+PHBhdGggZD0iTTIsMkgzMFYzMEgyVjJNNS42MDksNS40MzRxMCwxMC4xMjYsMCwyMC4yNTNIOS4wODhxMC00LjQwNywwLTguODE1LDEuMjY4LDQuNDA4LDIuNTM2LDguODE1LDEuNzM3LDAsMy40NzQsMCwwLTEwLjEyNiwwLTIwLjI1M2MtMS4xNjgsMC0yLjMzNiwwLTMuNSwwLDAsMi43NTksMCw1LjUxOCwwLDguMjc4UTEwLjMzMiw5LjU3Miw5LjA1OSw1LjQzNHEtMS43MjUsMC0zLjQ1LDBtMTcuMjU1LDQuOHEwLDUuOTcsMCwxMS45NEgyMC4zMzZjMC0xLjIyNSwwLTIuNDUsMC0zLjY3NS0xLjE3LjI3NC0yLjM0Mi41NDItMy41MTMuODE0cTAsMS44NDQsMCwzLjY4OGE0LjE5LDQuMTksMCwwLDAsLjA3NywxLjEsMi4xODcsMi4xODcsMCwwLDAsLjg2MywxLjIxOSwyLjA3NywyLjA3NywwLDAsMCwxLjE5My4zNzFxMi4zODEsMCw0Ljc2MywwYTQuMDU4LDQuMDU4LDAsMCwwLDEuMDgtLjA4LDIuMjE2LDIuMjE2LDAsMCwwLDEuMjQ3LS45MzEsMi4xMzYsMi4xMzYsMCwwLDAsLjMzNi0xLjIwOXEwLTYuNjE3LDAtMTMuMjM0WiIgc3R5bGU9ImZpbGw6IzFjNDkxMyIvPjxwYXRoIGQ9Ik01LjYwOSw1LjQzNHExLjcyNSwwLDMuNDUsMCwxLjI3MSw0LjEzOSwyLjUzOCw4LjI3OWMtLjAwNy0yLjc1OSwwLTUuNTE4LDAtOC4yNzgsMS4xNjgsMCwyLjMzNiwwLDMuNSwwcTAsMTAuMTI2LDAsMjAuMjUzLTEuNzM3LDAtMy40NzQsMC0xLjI3LTQuNDA3LTIuNTM2LTguODE1LDAsNC40MDgsMCw4LjgxNUg1LjYwOVE1LjYwOSwxNS41NjEsNS42MDksNS40MzRaIiBzdHlsZT0iZmlsbDojZmVmZmZjIi8+PHBhdGggZD0iTTIyLjg2NSwxMC4yMzNoMy41MTRxMCw2LjYxNywwLDEzLjIzNGEyLjEzNiwyLjEzNiwwLDAsMS0uMzM2LDEuMjA5LDIuMjE2LDIuMjE2LDAsMCwxLTEuMjQ3LjkzMSw0LjA1OCw0LjA1OCwwLDAsMS0xLjA4LjA4cS0yLjM4MiwwLTQuNzYzLDBhMi4wNzcsMi4wNzcsMCwwLDEtMS4xOTMtLjM3MUEyLjE4NywyLjE4NywwLDAsMSwxNi45LDI0LjFhNC4xOSw0LjE5LDAsMCwxLS4wNzctMS4xcTAtMS44NDQsMC0zLjY4OGMxLjE3MS0uMjczLDIuMzQzLS41NDEsMy41MTMtLjgxNCwwLDEuMjI1LDAsMi40NSwwLDMuNjc1aDIuNTI5UTIyLjg2NSwxNi4yLDIyLjg2NSwxMC4yMzNaIiBzdHlsZT0iZmlsbDojZmVmZmZjIi8+PC9zdmc+" alt="nunjucks" draggable="false"></a>
   </p>
   
-  <h4 align="right">Getting the hang of:</h4>
-  <p align="right">
-  <a href="https://www.mongodb.com/" target="_blank""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="mongodb" draggable="false"></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/> </a> 
+  <h4 align="right">Working with:</h4>
+        <p align="right">    
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a> 
+  
 </p>
 
 <hr>
