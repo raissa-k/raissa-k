@@ -55,8 +55,8 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JS String Methods - Part 0](https://raissak.com/blog/js-string-methods-part-0/)
 - [JS String Methods Part 11](https://raissak.com/blog/js-string-methods-part-11/)
 - [JS String Methods Part 10](https://raissak.com/blog/js-string-methods-part-10/)
 - [JS String Methods - Part 9](https://raissak.com/blog/js-string-methods-part-9/)
-- [JS String Methods - Part 8](https://raissak.com/blog/js-string-methods-part-8/)
 <!-- BLOG-POST-LIST:END -->
