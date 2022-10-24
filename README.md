@@ -46,7 +46,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 					<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
 				</a> 
 			</p>
-			<p><strong>JavaScript, HTML, EJS, TailwindCSS, Node, Express, MongoDB/Mongoose</strong></p>
+			<p><strong>JavaScript, HTML, EJS, TailwindCSS, Node, Express, MongoDB, Mongoose</strong></p>
 			<p>A web application that provides an easy-to-use solution to share assignments with students, even those who don't want to register to follow along class.</p>
 			<br>
 		</td>
