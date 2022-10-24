@@ -22,101 +22,109 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 <h3>Connect with me:</h3>
 <a href="https://polywork.com/raissa" target="blank"><img align="center" src="https://img.shields.io/badge/Polywork-543DE0?logo=polywork&style=for-the-badge" alt="raissak"/></a>&nbsp&nbsp&nbsp<a href="https://twitter.com/kzraissa" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="kzraissa"/></a>
 
+<hr>
+
+
 <h2 align="center">Project highlights</h2>
+<br>
 <div align="center">
 	<table>
 		<tr>
 			<td width="50%" valign="top">
-			<br>
-			<h3 align="center"><strong>Easy Classrooms web application</strong></h3>
-			<br>
-			<div align="center" >  
 				<a href='https://easy-classrooms.raissak.com/'>
 					<img src="https://i.imgur.com/uGbq4uol.png" height="100%" />
 				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://easy-classrooms.raissak.com/" target="_blank" rel="noreferrer"> <img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/> </a>
-					</a>
-          <a href="https://github.com/raissa-k/easy-classrooms" target="_blank">
-						<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
-					</a> 
-				</p>
-				<p><strong>JavaScript, HTML, EJS, TailwindCSS, Node, Express, MongoDB/Mongoose</strong> - A web application that provides an easy-to-use solution to share assignments with students, even those who don't want to register to follow along class.</p>
-			</div>
-			<br>
-		</td>
+				</td>
 			<td width="50%" valign="top">
 			<br>
-			<h3 align="center"><strong>Talk in Corporate - RESTful API</strong></h3>
+			<h3><strong>Easy Classrooms web application</strong></h3>
 			<br>
-			<div align="center" >  
+			<p>
+				<a href="https://easy-classrooms.raissak.com/" target="_blank" rel="noreferrer"> 
+					<img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/></a>
+          		<a href="https://github.com/raissa-k/easy-classrooms" target="_blank">
+					<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
+				</a> 
+			</p>
+			<p><strong>JavaScript, HTML, EJS, TailwindCSS, Node, Express, MongoDB/Mongoose</strong></p>
+			<p>A web application that provides an easy-to-use solution to share assignments with students, even those who don't want to register to follow along class.</p>
+			<br>
+		</td>
+		</tr>
+		<tr>
+			<td width="50%" valign="top">
+			<br>
+			<h3 align="right"><strong>Talk in Corporate - RESTful API</strong></h3>
+			<br>
+			<p align="right">
+				<a href="https://talkincorporate.up.railway.app/" target="_blank" rel="noreferrer">
+				<img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/>
+				</a>
+				<a href="https://github.com/raissa-k/talkincorporate" target="_blank">
+					<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
+				</a> 
+			</p>
+			<p align="right"><strong>JavaScript, CSS3, HTML5, Node.js, Express, MongoDB</strong></p>
+			<p align="right">API to help translate into and from "Corporate Speech". Documentation available <a href="https://app.swaggerhub.com/apis-docs/raissa-k/talk-in_corporate/1.0.0" target="_blank" rel="noreferrer">on Swagger</a></p>
+			<br>
+			</td>
+			<td width="50%" valign="top">
 				<a href='https://talkincorporate.up.railway.app/'>
 					<img src="https://i.imgur.com/81mlWY2l.png" height="100%" />
 				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://talkincorporate.up.railway.app/" target="_blank" rel="noreferrer"> <img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/> </a>
-					</a>
-          <a href="https://github.com/raissa-k/talkincorporate" target="_blank">
-						<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
-					</a> 
-				</p>
-				<p><strong>JavaScript, CSS3, HTML5, Node.js, Express, MongoDB</strong> - API to help translate into and from "Corporate Speech". Documentation available <a href="https://app.swaggerhub.com/apis-docs/raissa-k/talk-in_corporate/1.0.0" target="_blank" rel="noreferrer">on Swagger</a></p>
-			</div>
-			<br>
-		</td>
-	<tr>
-		<td width="50%" valign="top">
-			<br>
-			<h3 align="center"><strong>Latest Social Network</strong></h3>
-			<br>
-			<div align="center" >  
+			</td>
+		</tr>
+			<tr>
+			<td width="50%" valign="top">
 				<a href='https://latestsocialnetwork.raissak.com/'>
 					<img src="https://i.imgur.com/ssVFGuXl.png" height="100%" />
 				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://latestsocialnetwork.raissak.com/" target="_blank" rel="noreferrer"> <img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/> </a>
-					</a>
-          <a href="https://github.com/raissa-k/latest-social-network" target="_blank">
-						<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
-					</a> 
-				</p>
-				<p><strong>JavaScript, EJS, Tailwind CSS, Node.js, Express, MongoDB</strong> - A project to practice handling file uploads, user authentication, and styling with Tailwind.</p>
-			</div>
+				</td>
+			<td width="50%" valign="top">
+			<br>
+			<h3><strong>Latest Social Network</strong></h3>
+			<br>
+			<p>
+				<a href="https://latestsocialnetwork.raissak.com/" target="_blank" rel="noreferrer"> <img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/> </a>
+				</a>
+				<a href="https://github.com/raissa-k/latest-social-network" target="_blank">
+					<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
+				</a> 
+			</p>
+			<p><strong>JavaScript, EJS, Tailwind CSS, Node.js, Express, MongoDB</strong></p>
+			<p>A project to practice handling file uploads, user authentication, and styling with Tailwind.</p>
 			<br>
 		</td>
-		<td width="50%" valign="top">
+		</tr>
+		<tr>
+			<td width="50%" valign="top">
 			<br>
-			<h3 align="center"><strong>myPetPal</strong></h3>
+			<h3 align="right"><strong>myPetPal</strong></h3>
 			<br>
-			<div align="center" >  
+			<p align="right">
+				<a href="https://mypetpal.raissak.com/" target="_blank" rel="noreferrer">
+					<img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/></a>
+          		<a href="https://github.com/raissa-k/myPetPal" target="_blank">
+					<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
+				</a>  
+			</p>
+			<p align="right"><strong>JavaScript, Bootstrap, HTML5, Node.js, Express, MongoDB</strong></p>
+			<p align="right">Project built with a team; a pet activity tracker.</p>
+			<br>
+			</td>
+			<td width="50%" valign="top">
 				<a href='https://mypetpal.raissak.com/'>
 					<img src="https://i.imgur.com/vScIMA6l.png" height="100%" />
 				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://mypetpal.raissak.com/" target="_blank" rel="noreferrer"> <img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/> </a>
-					</a>
-          <a href="https://github.com/raissa-k/myPetPal" target="_blank">
-						<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
-					</a> 
-				</p>
-				<p><strong>JavaScript, Bootstrap, HTML5, Node.js, Express, MongoDB</strong> - Project built with a team; a pet activity tracker.</p>
-			</div>
-			<br>
-		</td>
-		</td>
+			</td>
+		</tr>
 	</table>
 </div>
 
+<hr>
 
 <h2 align="center">Toolbelt</h2>
+<br>
 <div align="center">
 <table>
 	<tr>
