@@ -32,7 +32,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 		<tr>
 			<td width="50%" valign="top">
 				<a href='https://easy-classrooms.raissak.com/'>
-					<img src="https://i.imgur.com/uGbq4uol.png" height="100%" />
+					<img align="right" src="https://user-images.githubusercontent.com/91985540/197544300-ea5c17ca-a2d6-466e-a4e2-5a0f3fcc90c6.gif" height="100%" />
 				</a>
 				</td>
 			<td width="50%" valign="top">
@@ -70,14 +70,13 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 			</td>
 			<td width="50%" valign="top">
 				<a href='https://talkincorporate.up.railway.app/'>
-					<img src="https://i.imgur.com/81mlWY2l.png" height="100%" />
-				</a>
+					<img align="left" src="https://user-images.githubusercontent.com/91985540/197550545-684bcd2a-7cf5-4895-96fe-761f44400db4.gif" height="100%" />				</a>
 			</td>
 		</tr>
 			<tr>
 			<td width="50%" valign="top">
 				<a href='https://latestsocialnetwork.raissak.com/'>
-					<img src="https://i.imgur.com/ssVFGuXl.png" height="100%" />
+					<img align="right" src="https://user-images.githubusercontent.com/91985540/197557863-5d0b4d10-87c3-46bb-9317-98fc4f7e27aa.gif" height="100%" />
 				</a>
 				</td>
 			<td width="50%" valign="top">
@@ -114,7 +113,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 			</td>
 			<td width="50%" valign="top">
 				<a href='https://mypetpal.raissak.com/'>
-					<img src="https://i.imgur.com/vScIMA6l.png" height="100%" />
+					<img align="left" src="https://user-images.githubusercontent.com/91985540/197553472-f03c6ce4-cc50-457b-981e-15697d3381ce.gif" height="100%" />
 				</a>
 			</td>
 		</tr>
