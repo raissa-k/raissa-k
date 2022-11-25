@@ -9,9 +9,7 @@
 - **building projects for freelance clients** 
 - **developing a habit of writing for the blog** 
 
-🌱 I’m currently looking into **PixiJS** and **Phaser**
-
-📝 I non-regularly write articles on <a href="https://raissak.com" target="blank" rel="noopener noreferrer">my personal blog</a>, but they also get posted on <a href="https://raissa.hashnode.dev/" target="blank" rel="noopener noreferrer">Hashnode</a>. 
+🌱 I’m currently looking into learning Elixir.
 
 ⚡ Fun facts: Paired with tea, <a href="https://mynoise.net/" target="blank" rel="noopener noreferrer">MyNoise</a> is what keeps me going.
 <br>
@@ -123,7 +121,14 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 <hr>
 
 <h2 align="center">Toolbelt</h2>
-<br>
+<div valign="center" width="100%">
+	<h3>Key:</h3>  
+	<a href="https://raissak.com/stack/javascript/" target="_blank""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" draggable="false"></a>
+	<h3>Getting familiar with:</h3>  
+	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript draggable="false">
+	<img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" draggable="false">	
+</div>
+
 <div align="center">
 <table>
 	<tr>
@@ -131,6 +136,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 			<h3 align="center">Frontend</h2>
 				<div align="center">
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/></a>
+	<a href="[https://reactjs.org/](https://nextjs.org/)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>					
           <a href="https://raissak.com/stack/html/" target="_blank""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" draggable="false"></a>
           <a href="https://raissak.com/stack/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-264de4?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css3" draggable="false"></a>
           <br>
@@ -160,7 +166,6 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
           <a href="https://raissak.com/stack/nodejs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
           <a href="https://raissak.com/stack/express/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/> </a>
           <a href="https://raissak.com/stack/mongodb/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
-          <a href="https://raissak.com/stack/javascript/" target="_blank""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" draggable="false"></a>
 				</div>
         <br>
 			</td>
