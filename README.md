@@ -124,8 +124,9 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 <div valign="center" width="100%">
 	<h3>Key:</h3>  
 	<a href="https://raissak.com/stack/javascript/" target="_blank""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" draggable="false"></a>
+	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" draggable="false">
 	<h3>Getting familiar with:</h3>  
-	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript draggable="false">
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" draggable="false">
 	<img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" draggable="false">	
 </div>
 
