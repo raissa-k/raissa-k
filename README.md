@@ -183,8 +183,8 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sênior e nem sabe isso?](https://raissak.com/blog/senior-e-nem-sabe-isso/)
+- [Motivos para aprender QA](https://raissak.com/blog/motivos-para-aprender-qa/)
 - [Building Easy Classrooms](https://raissak.com/blog/building-easy-classrooms/)
 - [JS String Methods - Part 0](https://raissak.com/blog/js-string-methods-part-0/)
-- [JS String Methods Part 11](https://raissak.com/blog/js-string-methods-part-11/)
-- [JS String Methods Part 10](https://raissak.com/blog/js-string-methods-part-10/)
 <!-- BLOG-POST-LIST:END -->
