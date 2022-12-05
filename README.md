@@ -62,7 +62,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 					<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
 				</a> 
 			</p>
-			<p align="right"><strong>TypeScript, Next.js, IndexedDB, TailwindCSS.</strong></p>
+			<p align="right"><strong>TypeScript, React / Next.js, IndexedDB, TailwindCSS.</strong></p>
 			<p align="right">A pomodoro task tracker for developers who forget to blink and move around every so often. Uses Next.js and IndexedDB for a nice PWA experience without logins.</p>
 			<br>
 			</td>
