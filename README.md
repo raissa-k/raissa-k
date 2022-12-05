@@ -35,7 +35,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 				</td>
 			<td width="50%" valign="top">
 			<br>
-			<h3><strong>Easy Classrooms web application</strong></h3>
+			<h3><a href="https://github.com/raissa-k/easy-classrooms" target="_blank"><strong>Easy Classrooms web application</strong></a></h3>
 			<br>
 			<p>
 				<a href="https://easy-classrooms.raissak.com/" target="_blank" rel="noreferrer"> 
@@ -52,7 +52,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 		<tr>
 			<td width="50%" valign="top">
 			<br>
-			<h3 align="right"><strong>Dev·Doro</strong></h3>
+			<h3 align="right"><a href="https://github.com/raissa-k/devdoro" target="_blank"><strong>Dev·Doro</strong></a></h3>
 			<br>
 			<p align="right">
 				<a href="https://devdoro.raissak.com/" target="_blank" rel="noreferrer">
@@ -79,7 +79,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 				</td>
 			<td width="50%" valign="top">
 			<br>
-			<h3><strong>Latest Social Network</strong></h3>
+			<h3><a href="https://github.com/raissa-k/latest-social-network" target="_blank"><strong>Latest Social Network</strong></a></h3>
 			<br>
 			<p>
 				<a href="https://latestsocialnetwork.raissak.com/" target="_blank" rel="noreferrer"> <img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/> </a>
@@ -96,7 +96,7 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 		<tr>
 			<td width="50%" valign="top">
 			<br>
-			<h3 align="right"><strong>myPetPal</strong></h3>
+			<h3 align="right"><a href="https://github.com/raissa-k/myPetPal" target="_blank"><strong>myPetPal</strong></a></h3>
 			<br>
 			<p align="right">
 				<a href="https://mypetpal.raissak.com/" target="_blank" rel="noreferrer">
