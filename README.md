@@ -52,23 +52,23 @@ _*pronounce it as in "Hi, Isa". "Ray" also works, no judgement._
 		<tr>
 			<td width="50%" valign="top">
 			<br>
-			<h3 align="right"><strong>Talk in Corporate - RESTful API</strong></h3>
+			<h3 align="right"><strong>Dev·Doro</strong></h3>
 			<br>
 			<p align="right">
-				<a href="https://talkincorporate.up.railway.app/" target="_blank" rel="noreferrer">
+				<a href="https://devdoro.raissak.com/" target="_blank" rel="noreferrer">
 				<img src="https://shields.io/badge/-see%20live-e3cde5?&style=for-the-badge&logo=googlechrome&logoColor=%23491F59" alt="see hosted project"/>
 				</a>
-				<a href="https://github.com/raissa-k/talkincorporate" target="_blank">
+				<a href="https://github.com/raissa-k/devdoro" target="_blank">
 					<img src="https://img.shields.io/badge/-see%20code-%23491F59?style=for-the-badge&logo=github&logoColor=%23e3cde5"/>
 				</a> 
 			</p>
-			<p align="right"><strong>JavaScript, CSS3, HTML5, Node.js, Express, MongoDB</strong></p>
-			<p align="right">API to help translate into and from "Corporate Speech". Documentation available <a href="https://app.swaggerhub.com/apis-docs/raissa-k/talk-in_corporate/1.0.0" target="_blank" rel="noreferrer">on Swagger</a></p>
+			<p align="right"><strong>TypeScript, Next.js, IndexedDB, TailwindCSS.</strong></p>
+			<p align="right">A pomodoro task tracker for developers who forget to blink and move around every so often. Uses Next.js and IndexedDB for a nice PWA experience without logins.</p>
 			<br>
 			</td>
 			<td width="50%" valign="top">
-				<a href='https://talkincorporate.up.railway.app/'>
-					<img align="left" src="https://user-images.githubusercontent.com/91985540/197550545-684bcd2a-7cf5-4895-96fe-761f44400db4.gif" height="100%" />				</a>
+				<a href='https://devdoro.raissak.com/'>
+					<img align="left" src="https://i.imgur.com/VTIaHb9.gif" height="100%" /></a>
 			</td>
 		</tr>
 			<tr>
